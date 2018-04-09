@@ -1,0 +1,14 @@
+MazeSolver is a simple game where you try to navigate
+a maze in the shortest possible amount of time, while
+collecting 'points'.
+
+ * - Point
+ ░ - Path
+ █ - Wall
+ ♥ - You
+ ∏ - Exit
+
+Use the arrow keys to control your character.
+Press ENTER over the door to exit.
+
+[ ← Back ]
